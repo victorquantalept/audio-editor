@@ -1,0 +1,7 @@
+{
+  "name": "audio-editor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

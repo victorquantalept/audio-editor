@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">android-app-two</string>
+    <string name="title_activity_main">android-app-two</string>
+    <string name="package_name">android.app.two</string>
+    <string name="custom_url_scheme">android.app.two</string>
+</resources>
